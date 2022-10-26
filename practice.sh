@@ -1,0 +1,1 @@
+added newly practice.sh 
